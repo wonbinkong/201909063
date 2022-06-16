@@ -77,3 +77,6 @@ footer{
 .box2_3 >.wrap >img{
     position: absolute;
 }
+.box2_2 >img{
+    left:300px;
+}
